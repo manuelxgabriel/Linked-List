@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  MainMenu.cpp
+  TestSuite.cpp
+  Generating Code...
+C:\Users\C0526598\Desktop\Lab05\Lab05\MainMenu.cpp(229): warning C4715: 'getNodeInfo': not all control paths return a value
+MainMenu.obj : error LNK2005: "int targetId" (?targetId@@3HA) already defined in Main.obj
+TestSuite.obj : error LNK2005: "int targetId" (?targetId@@3HA) already defined in Main.obj
+C:\Users\C0526598\Desktop\Lab05\x64\Debug\Lab05.exe : fatal error LNK1169: one or more multiply defined symbols found
